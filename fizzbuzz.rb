@@ -8,5 +8,5 @@ elsif int % 5 == 0
 elsif int % 3 && 5 == 0
   puts "FizzBuzz"
   else int !% 3 || 5
-    end
+  end
 end
