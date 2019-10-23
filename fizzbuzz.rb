@@ -14,7 +14,7 @@ end
 
 def fizzbuzz(int)
   out = nil
-  
+
   if int % 3 == 0
     out += "Fizz"
   end
